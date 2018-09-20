@@ -1,0 +1,7 @@
+C:\git\lab2\lab2\bin\Debug\lab2.exe.config
+C:\git\lab2\lab2\bin\Debug\lab2.exe
+C:\git\lab2\lab2\bin\Debug\lab2.pdb
+C:\git\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\git\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\git\lab2\lab2\obj\Debug\lab2.exe
+C:\git\lab2\lab2\obj\Debug\lab2.pdb
